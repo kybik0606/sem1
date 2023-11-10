@@ -1,4 +1,7 @@
-﻿#include <iostream>
+/*Даны натуральные числа n, m. Получить наименьшее общее кратное (НОК) 
+чисел n, m. НОК(n, m) = n  m / НОД(n, m).*/
+
+#include <iostream>
 #include<math.h>
 using namespace std;
 
